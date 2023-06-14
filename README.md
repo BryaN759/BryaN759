@@ -8,7 +8,7 @@
   
 -  I’m looking to collaborate with other developers
 
-- How to reach me **khaledmushahed@gmail.com**
+- Reach me at **khaledmushahed@gmail.com**
  
 -  2023 Goals: Master Data Structure and Algorithms
 
