@@ -28,9 +28,18 @@
 <h3 align="left">Connect with me:</h3>
 
 
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/khaled-mushahed-hossain-729632243/)
+&nbsp;&nbsp;
+[![website](./img/telegram-app-circled.svg)](https://t.me/BryaN759)
+&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com/)
+&nbsp;&nbsp;
 [![website](./img/facebook-circled.svg)](https://www.facebook.com/khaledmushahed)
 &nbsp;&nbsp;
-[![website](./img/telegram-circled.svg)](https://t.me/BryaN759)
+[![website](./img/discord.svg)](https://discord.gg/BryaN#0184)
+&nbsp;&nbsp;
+[![website](./img/instagram.svg)](https://www.instagram.com/__khaledmushahed/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
