@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[![website](./img/facebook-circled.svg)](https://www.facebook.com/khaledmushahed)
+[![website](./img/facebook-circled.gif)](https://www.facebook.com/khaledmushahed)
 &nbsp;&nbsp;
 [![website](./img/telegram-circled.svg)](https://t.me/BryaN759)
 
