@@ -36,7 +36,7 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Facebook" width="36px" src="./img/facebook-circled.svg" style="padding-right:10px;" />](https://www.facebook.com/khaledmushahed)
 &nbsp;&nbsp;
-[<img align="left" alt="Discord" width="36px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.gg/BryaN#0184)
+[<img align="left" alt="Discord" width="36px" src="./img/discord.svg" style="padding-right:10px;" />]([https://discord.gg/BryaN#0184](https://discordapp.com/users/308151591981285387))
 &nbsp;&nbsp;
 [<img align="left" alt="Instagram" width="36px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/__khaledmushahed/)
 
