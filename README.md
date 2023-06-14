@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[<img align="left" alt="LinkedIn" width="26px" src="./img/inkedin.svg" style="padding-right:10px;" />]
+[<img align="left" alt="LinkedIn" width="30px" src="./img/inkedin.svg" />]
 [![website](./img/inkedin.svg)](https://www.linkedin.com/in/khaled-mushahed-hossain-729632243/)
 &nbsp;&nbsp;
 [![website](./img/telegram-app-circled.svg)](https://t.me/BryaN759)
