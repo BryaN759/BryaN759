@@ -35,6 +35,7 @@
 <a href="https://www.linkedin.com/in/khaled-mushahed-hossain-729632243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
  <a href="https://discord.gg/BryaN#0184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
+[![website](./img/globe-dark.svg)](https://t.me/BryaN759#gh-dark-mode-only)
 <a href="https://t.me/BryaN759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="t.me" height="30" width="40" /></a>
 </p>
 <a href="https://www.facebook.com/khaledmushahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
