@@ -30,15 +30,15 @@
 
 [<img align="left" alt="LinkedIn" width="36px" src="./img/inkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/khaled-mushahed-hossain-729632243/)
 &nbsp;&nbsp;
-[<img align="left" alt="Telegram" width="26px" src="./img/telegram-app-circled.svg" style="padding-right:10px;" />](https://t.me/BryaN759)
+[<img align="left" alt="Telegram" width="36px" src="./img/telegram-app-circled.svg" style="padding-right:10px;" />](https://t.me/BryaN759)
 &nbsp;&nbsp;
-[<img align="left" alt="Twitter" width="26px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/)
+[<img align="left" alt="Twitter" width="36px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/)
 &nbsp;&nbsp;
-[<img align="left" alt="Facebook" width="26px" src="./img/facebook-circled.svg" style="padding-right:10px;" />](https://www.facebook.com/khaledmushahed)
+[<img align="left" alt="Facebook" width="36px" src="./img/facebook-circled.svg" style="padding-right:10px;" />](https://www.facebook.com/khaledmushahed)
 &nbsp;&nbsp;
-[<img align="left" alt="Discord" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.gg/BryaN#0184)
+[<img align="left" alt="Discord" width="36px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.gg/BryaN#0184)
 &nbsp;&nbsp;
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/__khaledmushahed/)
+[<img align="left" alt="Instagram" width="36px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/__khaledmushahed/)
 
 
 
