@@ -32,7 +32,7 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Telegram" width="36px" src="./img/telegram-app-circled.svg" style="padding-right:10px;" />](https://t.me/BryaN759)
 &nbsp;&nbsp;
-[<img align="left" alt="Twitter" width="36px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/)
+[<img align="left" alt="Twitter" width="36px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/_khaledmushahed)
 &nbsp;&nbsp;
 [<img align="left" alt="Facebook" width="36px" src="./img/facebook-circled.svg" style="padding-right:10px;" />](https://www.facebook.com/khaledmushahed)
 &nbsp;&nbsp;
