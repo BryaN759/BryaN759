@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Khaled Mushahed Hossain 👋</h1>
-<h3 align="center">I'm a Student, Developer, and Programmer!!</h3>
+<h3 align="center">I'm a Developer and Programmer!!</h3>
 
 
 -  I'm passionate about Full stack Development
