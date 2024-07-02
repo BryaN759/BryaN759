@@ -4,19 +4,18 @@
 
 -  I'm passionate about Full stack Development
   
--  I’m currently learning MERN Stack
+-  I’m currently learning Django
   
 -  I’m looking to collaborate with other developers
 
 - Reach me at **khaledmushahed@gmail.com**
  
--  2023 Goals: Master Data Structure and Algorithms
+-  2024 Goals: Master Django and React
 
--  Fun fact: I love to play video games
 
+
+- I’m currently working on Django and Vue3 Social Media project
 <!--
-- I’m currently working on **rtyf**
-
 - All of my projects are available at [dfgdfg](dfgdfg)
 
 - Ask about me **asdasdad**
